@@ -139,6 +139,12 @@ body{
   font-weight:600;
 }
 
+.hamburger {
+   width: 30px;
+   height: 30px;
+   border: none;
+}
+
 /* --------- HERO --------- */
 .hero{
   min-height:100vh;
